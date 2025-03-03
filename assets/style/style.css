@@ -1,0 +1,58 @@
+span + h1 {
+    margin-top: 8px;
+}
+
+header {
+    div img {
+        margin-block: 40px 24px;
+        height: 660px;
+    }
+
+    div {
+        text-align: center;
+    }
+}
+
+main {
+    article {
+    border: 1px solid var(--border-primary);
+    border-inline: none;
+    padding-block: 64px 40px;
+    margin-block: 44px 40px;
+    }
+
+    article > span {
+        display: inline-block;
+        padding-bottom: 2px;
+    }
+
+    article > p {
+        margin-block: 8px 64px;
+    }
+
+    div + div {
+        margin-top: 48px;
+    }
+
+    div > h3 {
+        padding-block: 20px 4px;
+    }
+
+    div > img {
+        height: 350px;
+    }
+
+}
+
+footer {
+    font: 16px/150% "Alice", serif;
+    margin-block: 65px ;
+}
+
+footer img {
+    width: 14px;
+    height: 12px;
+    object-fit: none;
+    border-radius: 0px;
+}
+

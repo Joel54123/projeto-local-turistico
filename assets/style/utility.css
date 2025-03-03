@@ -1,0 +1,49 @@
+.head1 {
+    font: var(--head1);
+    color: var(--text-primary);
+}
+
+.head2 {
+    font: var(--head2);
+    color: var(--text-primary);
+}
+
+.head3 {
+    font: var(--head3);
+    color: var(--text-primary);
+}
+
+.headline {
+    font: var(--headline);
+    text-transform: uppercase;
+    color: var(--text-headline);
+}
+
+.paragraph {
+    font: var(--paragraph);
+    color: var(--text-secondary);
+}
+
+.subtitle {
+    font: var(--subtitle);
+}
+
+.txt-blue {
+    color: var(--accent-blue);
+}
+
+.txt-purple {
+    color: var(--accent-purple);
+}
+
+.txt-pink {
+    color: var(--accent-pink);
+}
+
+.txt-orange {
+    color: var(--accent-orange);
+}
+
+.txt-center {
+    text-align: center;
+}
